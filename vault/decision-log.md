@@ -32,5 +32,14 @@ Links: [[index]], [[founder-mindset]].
 - Review date and kill criterion: review at the end of November 2026. If I'm not using it, simplify.
 - Outcome: pending.
 
+### 2026-10-24: Current priority set to promotion and AI-resistant positioning
+- Context: career regret about the defensibility of my degree. AI is expected to disrupt engineering roles.
+- Options considered: stay in IT roles; move to a top tech firm; specialise; build a business.
+- Decision: pursue a raise or promotion now, while building toward a specialist or business-owner path.
+- Reversible or irreversible: reversible.
+- Reasoning and assumptions: IT-only work is being displaced, so I need a defensible specialism.
+- Review date and kill criterion: review at the end of November 2026. Drop the path if no concrete specialism is chosen by then.
+- Outcome: pending.
+
 ## Monthly priorities
 - October 2026: priorities not yet set. Set them in the [[founder-mindset]] self-check.

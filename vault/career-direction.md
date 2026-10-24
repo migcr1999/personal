@@ -27,7 +27,7 @@ Links: [[index]], [[persona]], [[founder-mindset]], [[skill-ai-llm-engineering]]
 
 ## Constraints
 - Open to Asia (Singapore, Bangkok, and others). Not restricted to Hong Kong.
-- Visa and work-permit status: **to confirm**, including whether it transfers.
+- Permanent residency in Hong Kong. No visa constraint.
 - Side-project time: 5-10 hours a week.
 - Senior sponsor inside HSBC who would advocate for my next move.
 
@@ -40,3 +40,6 @@ Links: [[index]], [[persona]], [[founder-mindset]], [[skill-ai-llm-engineering]]
 - Which target titles and company types would I accept, and which would I refuse?
 - Is Ventures work my strongest portfolio piece? Which project?
 - What is the next 6-month milestone?
+- Specialist or business owner: which direction do I commit to first?
+- Which AI-resistant specialism fits my background: data and AI for finance, forward deployed work, or domain depth in investing?
+- Growth on the Ventures team is limited by Mandarin and deal experience. Which skills close that gap, and which gaps are not worth closing?

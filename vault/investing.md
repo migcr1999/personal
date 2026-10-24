@@ -18,7 +18,7 @@ Links: [[index]], [[persona]], [[career-direction]], [[side-business-ideas]].
 - Risk appetite: moderate.
 
 ## Open questions
-- Goal: growth, income, or capital preservation? **To confirm.**
+- Goal: growth and income.
 - Would the cash reserve cover a career move with a gap in income? See [[career-direction]].
 - How much of my net worth should sit in each asset class?
 

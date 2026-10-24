@@ -72,7 +72,8 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 - Energised by: building and shipping products, solving client problems, analysing data for decisions.
 
 ## Constraints
-- Location: open to Asia. Visa status: **to confirm**.
+- Residency: permanent resident of Hong Kong.
+- Open to roles across Asia.
 - Cash: around three years of reserves. Very few ETFs held. See [[investing]].
 - Side-project time: 5-10 hours a week.
 
@@ -85,10 +86,22 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 - Founder traits: speed, focus, vision. See [[founder-mindset]].
 - Further directions: to be added by the user.
 
+## Career narrative (from interview)
+- Started university aiming for trading. Missed the internships I wanted and grades dropped.
+- Moved into coding, which felt more natural. Had game-making experience growing up.
+- Self-described weak at maths. Weigh this against quant-heavy paths such as trading.
+- IT roles alone hit a ceiling. Real money sits at top tech firms or in business ownership.
+- Joined Ventures to combine finance and tech.
+- Blockers on the finance route: no Mandarin (China is the main Asian VC market), and no deal experience (the team is mostly ex-investment bank). Limited to sourcing and manual process work.
+- Now working as a forward deployed engineer on a side project with my manager, an AI product manager on the team.
+- Biggest regret: not choosing a more defensible path such as medicine, law, or real engineering. My younger brother is in medical school and seen as AI-resistant. Feels my degree gives little protection.
+
+## Current priority
+- Get a raise or promotion using current skills and background.
+- Prepare for a future where engineering roles are heavily disrupted by AI.
+- Must become either a specialist in a defensible area, or a business owner. Pure IT work is being displaced.
+
 ## Open questions
-- Career story in your own words: best and worst moments, and why I chose each move.
-- Biggest career regret, and the decision I'd reverse.
-- Visa or work-permit status in HK, and whether it transfers.
-- Which Ventures project could become a credible portfolio piece.
+- Which Ventures project could become a credible portfolio piece? The side project with my manager is a candidate.
 - Which target titles and company types I'd accept, and which I'd refuse.
-- Investment goal: growth, income, or capital preservation.
+- Which specialism is defensible for me: options to evaluate in [[career-direction]].
