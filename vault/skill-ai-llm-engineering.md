@@ -13,8 +13,8 @@ Links: [[index]], [[persona]], [[career-direction]], [[founder-mindset]].
 - Priority skill to build. Strongest near-term lever for senior specialist roles and forward deployed work.
 
 ## Current level
-- Self-reported: "shipped something at work" with Gen-AI tools. Listed as proficient on the CV.
-- **To confirm:** what was shipped, which models or tools, and whether it used retrieval, agents, or evaluation.
+- Shipped at work: prompted tools, and an agent / workflow with evaluation of output quality. No retrieval (RAG) yet.
+- **To confirm:** which models and tools, and the measurable result (time saved, users).
 
 ## Gaps to close
 - Evaluation: how to measure output quality, not just demo it.

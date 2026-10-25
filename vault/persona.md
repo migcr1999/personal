@@ -11,7 +11,7 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 
 ## Identity and context
 - 27, male, from Thailand, based in Hong Kong.
-- Languages: native Thai, fluent English, basic Mandarin.
+- Languages: native Thai, fluent English, Mandarin between HSK 1 and 2 (Oct 2026), learning with Duolingo, Pleco and Anki.
 - Open to roles in Asia (e.g. Singapore, Bangkok), not limited to Hong Kong.
 - Wants a blunt strategist: challenge plans directly, then help.
 - Interests: game development, football, investments, cooking, martial arts (Muay Thai, Taekwondo), reading.
@@ -21,9 +21,13 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 
 ## Work history
 ### HSBC, Hong Kong, Jul 2023 to present
-- Title on CV: Venture Capital Graduate Analyst. Interview: Technology Graduate Programme. **To confirm.**
+- Joined through the Technology Graduate Programme. Now off the programme; HR title is "Analyst". CV says "Venture Capital Graduate Analyst": update it.
+- Pay: HKD 35k/month, unchanged since joining in Jul 2023. No promotion or raise after the programme.
 - Joined the Ventures (CVC) team in Jan 2025.
-- Forward Deployed Engineering for about the past 6 months. **To confirm whether this is a role or a project.**
+- Not an investor: no deal involvement, sourcing at most.
+- Ventures MD is strongly anti-engineer: wants the investors to eventually do what I do, so a dedicated FDE role like mine stops existing. Manager/sponsor (an AI PM) backs the hybrid FDE route, and is being promoted to Head of AI Products in Ventures (Oct 2026). I could stay in her line long-term, and she is keen to take me with her if she moves to an AI PM role elsewhere.
+- Proof point: a Tech grad on the UK Ventures team with no investment background is learning investing through hands-on deals. UK deals are in English, so he has no language barrier.
+- Forward Deployed Engineering for about the past 6 months, as a formal part of the role.
 - Delivered: Excel VBA portfolio analytics tool; valuation and scenario models; due diligence and sector research; regulatory review of investment memos; VC portfolio showcase for the Global Investment Summit 2025 (4,500+ attendees).
 - Enjoys most: due diligence and research, building tools and models, forward deployed engineering.
 - Senior sponsor inside HSBC who would advocate for the next move.
@@ -77,14 +81,12 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 - Cash: around three years of reserves. Very few ETFs held. See [[investing]].
 - Side-project time: 5-10 hours a week.
 
-## Side projects and investing
-- Risk appetite: moderate, calculated bets.
-- Side business form: undecided. See [[side-business-ideas]].
-- Investing time horizon: 10+ years.
+## Hard factors
+- No hard blockers or hard advantages: no family business or connections, no major assets, no closed-door network (as of 2026-10-24).
+- Time for the plan (from 2026-10-24): 2 h per weekday + 5 h per weekend day = **20 h/week**.
 
-## Directions and skills to embody
-- Founder traits: speed, focus, vision. See [[founder-mindset]].
-- Further directions: to be added by the user.
+## Risk
+- Moderate, calculated bets. Side business: [[side-business-ideas]]. Investing: [[investing]]. Founder traits: [[founder-mindset]].
 
 ## Career narrative (from interview)
 - Started university aiming for trading. Missed the internships I wanted and grades dropped.
@@ -92,7 +94,7 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 - Self-described weak at maths. Weigh this against quant-heavy paths such as trading.
 - IT roles alone hit a ceiling. Real money sits at top tech firms or in business ownership.
 - Joined Ventures to combine finance and tech.
-- Blockers on the finance route: no Mandarin (China is the main Asian VC market), and no deal experience (the team is mostly ex-investment bank). Limited to sourcing and manual process work.
+- Blockers on the finance route: no Mandarin (China is the main Asian VC market), and no deal experience (the team is mostly ex-investment bank). Limited to sourcing and manual process work. These are soft blockers: closable with time (see [[core-rules]]).
 - Now working as a forward deployed engineer on a side project with my manager, an AI product manager on the team.
 - Biggest regret: not choosing a more defensible path such as medicine, law, or real engineering. My younger brother is in medical school and seen as AI-resistant. Feels my degree gives little protection.
 
@@ -102,6 +104,4 @@ Links: [[index]], [[career-direction]], [[founder-mindset]], [[investing]], [[si
 - Must become either a specialist in a defensible area, or a business owner. Pure IT work is being displaced.
 
 ## Open questions
-- Which Ventures project could become a credible portfolio piece? The side project with my manager is a candidate.
-- Which target titles and company types I'd accept, and which I'd refuse.
-- Which specialism is defensible for me: options to evaluate in [[career-direction]].
+- Tracked in [[career-direction]].
