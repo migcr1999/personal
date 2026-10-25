@@ -24,6 +24,9 @@ Scheduled tasks prepare a draft of each review in `vault/reviews/`. Then we talk
 - **Timeline:** on track / behind / ahead for each Year-1 checkpoint.
 - **New thoughts:** each one gets logged in the right note.
 
+## Sit-down sessions with Claude
+Working sessions done with Claude (e.g. brag log, shock plans, money model, investing policy) can happen any day. **Any that weren't done during the week, and whose due date has arrived or is in the coming week, get scheduled into the Saturday review session** right after the weekly review, as separate bullets with time estimates. If too many pile up, schedule the earliest-due first and move the rest into Sunday.
+
 ## Verdict rule (monthly and up)
 - **Full speed:** checkpoints on track and signals at base case.
 - **Adjust:** one checkpoint slipping, or one signal moving toward the worst case.
