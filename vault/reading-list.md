@@ -12,14 +12,16 @@ Links: [[index]], [[learning-plans]], [[future-of-work]], [[ai-maturity-jobs]], 
 
 **Commute reading is on top of the 20 h/week budget.** Every weekly plan gives each day one reading assignment, matched to the day's theme and the current learning-track week.
 
+**Default to free sources** (no paywall or subscriber-only posts). Paywalled sources are optional extras only.
+
 ## Daily themes
 | Day | Theme | Short-form sources | Why |
 |---|---|---|---|
 | Mon | AI and the future of work | Stanford AI Index, Anthropic Economic Index, Indeed Hiring Lab, sources in [[future-of-work]] | Feeds the quarterly market review |
-| Tue | AI product management | Lenny's Newsletter, Track 1 book chapter | [[learning-plans]] Track 1 |
-| Wed | Venture and deals | *Venture Deals* chapter, a16z and NFX essays | Track 2 |
+| Tue | AI product management | Free: SVPG articles (Marty Cagan), Product Talk blog (Teresa Torres); Track 1 book chapter. Lenny's only for its free posts | [[learning-plans]] Track 1 |
+| Wed | Venture and deals | *Venture Deals* chapter; free: Brad Feld's blog, NFX essays, a16z, Paul Graham essays | Track 2 |
 | Thu | Asia and China tech and AI | ChinAI newsletter (Jeffrey Ding), Tech in Asia, SCMP Tech | [[asia-venture-landscape]] |
-| Fri | Strategy and business models | Stratechery, Benedict Evans | Judgment (category 4) |
+| Fri | Strategy and business models | Free: Benedict Evans essays, a16z; Stratechery only its free weekly article | Judgment (category 4) |
 | Sat | Long form: current book | Book queue below | Depth |
 | Sun | Mandarin graded reader | Mandarin Companion / HSK graded readers (HSK 2-3 level) | HSK 4 target |
 

@@ -57,6 +57,7 @@ How to use: read before every answer. Add an entry whenever the user makes a poi
 - Blunt. Challenge directly, then help.
 - Likes reading assignments (short and long form). Every day in a weekly plan gets a commute read ([[reading-list]]), with its link, including when the plan is shown in chat.
 - Sit-down sessions with Claude not done during the week get scheduled into the Saturday review session ([[review-cadence]]).
+- 2026-10-27: Reading assignments must be free to read (Lenny's/Substack paywalls failed). Give non-paywalled links by default.
 - Weekly plans: one bullet per action under each day heading, never several actions on one line or in a table cell.
 - Specific to this user's situation, never generic advice that fits anyone.
 - Don't repeat basics the user already knows or has said.
