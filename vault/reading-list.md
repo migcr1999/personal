@@ -25,6 +25,10 @@ Links: [[index]], [[learning-plans]], [[future-of-work]], [[ai-maturity-jobs]], 
 | Sat | Long form: current book | Book queue below | Depth |
 | Sun | Mandarin graded reader | Mandarin Companion / HSK graded readers (HSK 2-3 level) | HSK 4 target |
 
+## Audio options (free on Spotify as podcasts)
+- Tue: Lenny's Podcast (full episodes free). Wed: 20VC, a16z Podcast. Thu: ChinaTalk. Fri: Acquired. Mon: Hard Fork.
+- Audiobooks: Spotify audiobooks in HK are not confirmed (rollout to 180+ markets by end-2026, Asia mostly via paid Audiobooks+ add-on). Check the app. Free route to check: HK Public Libraries e-resources.
+
 ## Book queue (in order)
 1. *Continuous Discovery Habits*, Teresa Torres (Track 1, weeks 1-2)
 2. *Venture Deals*, Feld & Mendelson (Track 2, weeks 1-6)
